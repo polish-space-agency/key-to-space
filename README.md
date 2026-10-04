@@ -10,7 +10,7 @@ OŚWIADCZENIE LICENCYJNE PROJEKTU / PROJECT LICENSE NOTICE
 PL: Cała zawartość tego repozytorium, w tym pliki projektowe programu KiCad (schematy i projekty płytek PCB) oraz dokumentacja techniczna, udostępniana jest na licencji:
 Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0).
 
-Pełna treść licencji dostępna jest pod adresem: https://creativecommons.org
+Pełna treść licencji dostępna jest pod adresem: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
 
 WARUNKI SZCZEGÓŁOWE I INTENCJA AUTORA:
 1. UŻYTEK NIEKOMERCYJNY: Zezwala się na kopiowanie, modyfikowanie oraz wytwarzanie fizycznych egzemplarzy urządzenia wyłącznie do celów niekomercyjnych, prywatnych, hobbystycznych (np. przez krótkofalowców, majsterkowiczów) oraz statutowych (przez organizacje pozarządowe / NGO).
@@ -22,7 +22,7 @@ WARUNKI SZCZEGÓŁOWE I INTENCJA AUTORA:
 EN: All contents of this repository, including KiCad design files (schematics and PCB layouts) and technical documentation, are licensed under:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-The full license legal code is available at: https://creativecommons.org
+The full license legal code is available at: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
 
 SPECIFIC TERMS AND AUTHOR'S INTENT:
 1. NON-COMMERCIAL USE: Copying, modifying, and manufacturing physical units of this device is permitted strictly for non-commercial, private, hobbyist (e.g., amateur radio operators, makers), and non-profit/NGO institutional purposes.
