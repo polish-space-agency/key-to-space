@@ -223,25 +223,25 @@ Tranzystory Q1 i Q2 służą do wzmacniania sygnału z mikrofonu i sterowania di
 
 Wszystkie elementy do montażu przewlekanego (THT).
 
-| Element | Wartość/typ | Opis | Obudowa | Symbol (producent) – przykład |
+| Element | Wartość/typ | Opis | Obudowa | Symbol – przykład |
 |---------|-------------|------|---------|-------------------------------|
-| R1 | 4.7kΩ[^1] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-4K7 (SR Passives) |
-| R2 | 1MΩ | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-1M (SR Passives) |
-| R3 | 10kΩ[^2] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-10K (SR Passives) |
-| R4 | 10kΩ[^3] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-10K (SR Passives) |
-| R5 | 2.2kΩ | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-2K2 (SR Passives) |
-| C3 | 10nF | Kondensator ceramiczny, 50V | 2.54mm | CC-10N (SR Passives) |
-| C4 | 100nF[^4] | Kondensator ceramiczny, 50V | 2.54mm | CC-100N (SR Passives) |
-| C1 | 100µF | Kondensator elektrolityczny, 25V | Ø6x11mm, 2.5mm | EWH1EV101E11OT (Aishi) |
-| C2 | 1µF | Kondensator elektrolityczny, 50V | Ø5x11mm, 2.5mm | EWH1HM010D11X25T (Aishi) |
-| C5 | 10µF | Kondensator elektrolityczny, 50V | Ø5x11mm, 2.5mm | EWH1HM100D11X25T (Aishi) |
-| U1 | NE555P | Układ scalony, timer | DIP8 | NE555P (Texas Instruments) |
-| Q1, Q2 | BC547B[^5] | Tranzystor bipolarny NPN | TO92 | BC547B (Diotec) |
-| D1..D5 | | Dioda LED, dyfuzyjna, niebieska, jasność do 1000mcd | 5mm, czoło wypukłe | L-7113QBDL-D (Kingbright) |
-| MK1[^6] | | Mikrofon elektretowy, 1..10V, 0.5mA, -44dB (min.) | Ø9.7mm, 2.5mm | LD-MC-9765P (LOUDITY) |
-| BZ1 | | Brzęczyk piezoelektryczny bez generatora, 1..10V, 1mA | Ø13.8x6.8mm, 7.6mm | AT-1438-TWT-R (PUI AUDIO) |
-| S1 | | Mikroprzełącznik monostabilny | 12x12x4.3mm | TACT-24N (NINIGI) |
-| J1 | | Złącze śrubowe, kątowe 90º, dwutorowe | 5.08mm | 282837-2 (TE CONNECTIVITY) lub TB-5.08-P-2P/BL (NINIGI) |
+| R1 | 4.7kΩ[^1] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-4K7 |
+| R2 | 1MΩ | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-1M |
+| R3 | 10kΩ[^2] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-10K |
+| R4 | 10kΩ[^3] | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-10K |
+| R5 | 2.2kΩ | Rezystor węglowy, 0.25W, ±5% | Osiowa, Ø2.3x6mm | CF1/4W-2K2 |
+| C3 | 10nF | Kondensator ceramiczny, 50V | 2.54mm | CC-10N |
+| C4 | 100nF[^4] | Kondensator ceramiczny, 50V | 2.54mm | CC-100N |
+| C1 | 100µF | Kondensator elektrolityczny, 25V | Ø6x11mm, 2.5mm | EWH1EV101E11OT |
+| C2 | 1µF | Kondensator elektrolityczny, 50V | Ø5x11mm, 2.5mm | EWH1HM010D11X25T |
+| C5 | 10µF | Kondensator elektrolityczny, 50V | Ø5x11mm, 2.5mm | EWH1HM100D11X25T |
+| U1 | NE555P | Układ scalony, timer | DIP8 | NE555P |
+| Q1, Q2 | BC547B[^5] | Tranzystor bipolarny NPN | TO92 | BC547B |
+| D1..D5 | | Dioda LED, dyfuzyjna, niebieska, jasność do 1000mcd | 5mm, czoło wypukłe | L-7113QBDL-D |
+| MK1[^6] | | Mikrofon elektretowy, 1..10V, 0.5mA, -44dB (min.) | Ø9.7mm, 2.5mm | LD-MC-9765P |
+| BZ1 | | Brzęczyk piezoelektryczny bez generatora, 1..10V, 1mA | Ø13.8x6.8mm, 7.6mm | AT-1438-TWT-R |
+| S1 | | Mikroprzełącznik monostabilny | 12x12x4.3mm | TACT-24N |
+| J1 | | Złącze śrubowe, kątowe 90º, dwutorowe | 5.08mm | 282837-2 lub TB-5.08-P-2P/BL |
 
 Dodatkowe elementy dołączane do zestawu (do eksperymentów, niemontowane na stałe):
 
