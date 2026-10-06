@@ -233,7 +233,7 @@ All components are through-hole (THT).
 | MK1[^6] | | Electret microphone, 1..10V, 0.5mA, -44dB (min.) | Ø9.7mm, 2.5mm | LD-MC-9765P |
 | BZ1 | | Piezoelectric buzzer without oscillator, 1..10V, 1mA | Ø13.8x6.8mm, 7.6mm | AT-1438-TWT-R |
 | S1 | | Momentary tactile switch | 12x12x4.3mm | TACT-24N |
-| J1 | | Screw terminal, 90° angled, 2-pin | 5.08mm | 282837-2 (TE CONNECTIVITY) or TB-5.08-P-2P/BL |
+| J1 | | Screw terminal, 90° angled, 2-pin | 5.08mm | 282837-2 or TB-5.08-P-2P/BL |
 
 Additional components included in the kit (for experiments, not permanently mounted):
 
