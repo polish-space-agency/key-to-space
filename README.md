@@ -9,7 +9,7 @@
 # Klucz do Kosmosu
 
 ```
-OŚWIADCZENIE LICENCYJNE PROJEKTU / PROJECT LICENSE NOTICE
+OŚWIADCZENIE LICENCYJNE PROJEKTU
 
 PL: Cała zawartość tego repozytorium, w tym pliki projektowe programu KiCad (schematy i projekty płytek PCB) oraz dokumentacja techniczna, udostępniana jest na licencji:
 Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0).
@@ -20,19 +20,6 @@ WARUNKI SZCZEGÓŁOWE I INTENCJA AUTORA:
 1. UŻYTEK NIEKOMERCYJNY: Zezwala się na kopiowanie, modyfikowanie oraz wytwarzanie fizycznych egzemplarzy urządzenia wyłącznie do celów niekomercyjnych, prywatnych, hobbystycznych (np. przez krótkofalowców, majsterkowiczów) oraz statutowych (przez organizacje pozarządowe / NGO).
 2. SPECJALNE ZEZWOLENIE DLA PLACÓWEK OŚWIATOWYCH: Oficjalne szkoły, uczelnie wyższe oraz inne placówki dydaktyczne są wyraźnie uprawnione do wytwarzania oraz zlecania produkcji tego urządzenia (w tym zamawiania partii płytek PCB w zewnętrznych przedsiębiorstwach) na własne, wewnętrzne potrzeby edukacyjne i szkoleniowe.
 3. OZNACZENIE AUTORA NA PCB (WARUNEK "BY"): Zgodnie z warunkiem Uznania Autorstwa, zabrania się usuwania, modyfikowania lub zakrywania oznaczeń autora (nazwiska, nicku lub logo) umieszczonych na warstwie opisowej (silkscreen) płytki PCB. Każda wyprodukowana płytka musi te oznaczenia zachować w oryginalnej formie.
-
---------------------------------------------------------------------------------
-
-EN: All contents of this repository, including KiCad design files (schematics and PCB layouts) and technical documentation, are licensed under:
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
-
-The full license legal code is available at: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
-
-SPECIFIC TERMS AND AUTHOR'S INTENT:
-1. NON-COMMERCIAL USE: Copying, modifying, and manufacturing physical units of this device is permitted strictly for non-commercial, private, hobbyist (e.g., amateur radio operators, makers), and non-profit/NGO institutional purposes.
-2. SPECIAL PERMISSION FOR EDUCATIONAL INSTITUTIONS: Official schools, universities, and educational organizations are explicitly authorized to manufacture and order the production of this hardware (including batch PCB fabrication from commercial manufacturers) solely for their own internal educational and instructional purposes.
-3. PCB ATTRIBUTION (THE "BY" CONDITION): In accordance with the Attribution requirement, it is strictly forbidden to remove, alter, or obscure the author's identification (name, handle, or logo) placed on the silkscreen layer of the PCB. Any manufactured circuit board must retain these markings in their original form.
-
 ```
 
 **Dokumentacja techniczna – edukacyjne urządzenie elektroniczne, wersja szkolna**
