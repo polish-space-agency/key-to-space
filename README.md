@@ -1,3 +1,7 @@
+<p align="right">
+  <b>Polski</b> | <a href="README.en.md">English</a>
+</p>
+
 <p align="center">
   <img src="images/polsa-logo.png" alt="Polska Agencja Kosmiczna" width="220">
 </p>
