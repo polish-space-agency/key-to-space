@@ -215,25 +215,25 @@ Transistors Q1 and Q2 amplify the microphone signal and drive the LEDs. Changes 
 
 All components are through-hole (THT).
 
-| Item | Value/type | Description | Package | Part number (manufacturer) – example |
+| Item | Value/type | Description | Package | Part number – example |
 |---------|-------------|------|---------|-------------------------------|
-| R1 | 4.7kΩ[^1] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-4K7 (SR Passives) |
-| R2 | 1MΩ | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-1M (SR Passives) |
-| R3 | 10kΩ[^2] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-10K (SR Passives) |
-| R4 | 10kΩ[^3] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-10K (SR Passives) |
-| R5 | 2.2kΩ | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-2K2 (SR Passives) |
-| C3 | 10nF | Ceramic capacitor, 50V | 2.54mm | CC-10N (SR Passives) |
-| C4 | 100nF[^4] | Ceramic capacitor, 50V | 2.54mm | CC-100N (SR Passives) |
-| C1 | 100µF | Electrolytic capacitor, 25V | Ø6x11mm, 2.5mm | EWH1EV101E11OT (Aishi) |
-| C2 | 1µF | Electrolytic capacitor, 50V | Ø5x11mm, 2.5mm | EWH1HM010D11X25T (Aishi) |
-| C5 | 10µF | Electrolytic capacitor, 50V | Ø5x11mm, 2.5mm | EWH1HM100D11X25T (Aishi) |
-| U1 | NE555P | Integrated circuit, timer | DIP8 | NE555P (Texas Instruments) |
-| Q1, Q2 | BC547B[^5] | NPN bipolar transistor | TO92 | BC547B (Diotec) |
-| D1..D5 | | LED, diffused, blue, up to 1000mcd | 5mm, domed | L-7113QBDL-D (Kingbright) |
-| MK1[^6] | | Electret microphone, 1..10V, 0.5mA, -44dB (min.) | Ø9.7mm, 2.5mm | LD-MC-9765P (LOUDITY) |
-| BZ1 | | Piezoelectric buzzer without oscillator, 1..10V, 1mA | Ø13.8x6.8mm, 7.6mm | AT-1438-TWT-R (PUI AUDIO) |
-| S1 | | Momentary tactile switch | 12x12x4.3mm | TACT-24N (NINIGI) |
-| J1 | | Screw terminal, 90° angled, 2-pin | 5.08mm | 282837-2 (TE CONNECTIVITY) or TB-5.08-P-2P/BL (NINIGI) |
+| R1 | 4.7kΩ[^1] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-4K7 |
+| R2 | 1MΩ | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-1M |
+| R3 | 10kΩ[^2] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-10K |
+| R4 | 10kΩ[^3] | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-10K |
+| R5 | 2.2kΩ | Carbon film resistor, 0.25W, ±5% | Axial, Ø2.3x6mm | CF1/4W-2K2 |
+| C3 | 10nF | Ceramic capacitor, 50V | 2.54mm | CC-10N |
+| C4 | 100nF[^4] | Ceramic capacitor, 50V | 2.54mm | CC-100N |
+| C1 | 100µF | Electrolytic capacitor, 25V | Ø6x11mm, 2.5mm | EWH1EV101E11OT |
+| C2 | 1µF | Electrolytic capacitor, 50V | Ø5x11mm, 2.5mm | EWH1HM010D11X25T |
+| C5 | 10µF | Electrolytic capacitor, 50V | Ø5x11mm, 2.5mm | EWH1HM100D11X25T |
+| U1 | NE555P | Integrated circuit, timer | DIP8 | NE555P |
+| Q1, Q2 | BC547B[^5] | NPN bipolar transistor | TO92 | BC547B |
+| D1..D5 | | LED, diffused, blue, up to 1000mcd | 5mm, domed | L-7113QBDL-D |
+| MK1[^6] | | Electret microphone, 1..10V, 0.5mA, -44dB (min.) | Ø9.7mm, 2.5mm | LD-MC-9765P |
+| BZ1 | | Piezoelectric buzzer without oscillator, 1..10V, 1mA | Ø13.8x6.8mm, 7.6mm | AT-1438-TWT-R |
+| S1 | | Momentary tactile switch | 12x12x4.3mm | TACT-24N |
+| J1 | | Screw terminal, 90° angled, 2-pin | 5.08mm | 282837-2 (TE CONNECTIVITY) or TB-5.08-P-2P/BL |
 
 Additional components included in the kit (for experiments, not permanently mounted):
 
