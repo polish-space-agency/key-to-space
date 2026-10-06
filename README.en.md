@@ -9,19 +9,7 @@
 # Key to Space
 
 ```
-OŚWIADCZENIE LICENCYJNE PROJEKTU / PROJECT LICENSE NOTICE
-
-PL: Cała zawartość tego repozytorium, w tym pliki projektowe programu KiCad (schematy i projekty płytek PCB) oraz dokumentacja techniczna, udostępniana jest na licencji:
-Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0).
-
-Pełna treść licencji dostępna jest pod adresem: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
-
-WARUNKI SZCZEGÓŁOWE I INTENCJA AUTORA:
-1. UŻYTEK NIEKOMERCYJNY: Zezwala się na kopiowanie, modyfikowanie oraz wytwarzanie fizycznych egzemplarzy urządzenia wyłącznie do celów niekomercyjnych, prywatnych, hobbystycznych (np. przez krótkofalowców, majsterkowiczów) oraz statutowych (przez organizacje pozarządowe / NGO).
-2. SPECJALNE ZEZWOLENIE DLA PLACÓWEK OŚWIATOWYCH: Oficjalne szkoły, uczelnie wyższe oraz inne placówki dydaktyczne są wyraźnie uprawnione do wytwarzania oraz zlecania produkcji tego urządzenia (w tym zamawiania partii płytek PCB w zewnętrznych przedsiębiorstwach) na własne, wewnętrzne potrzeby edukacyjne i szkoleniowe.
-3. OZNACZENIE AUTORA NA PCB (WARUNEK "BY"): Zgodnie z warunkiem Uznania Autorstwa, zabrania się usuwania, modyfikowania lub zakrywania oznaczeń autora (nazwiska, nicku lub logo) umieszczonych na warstwie opisowej (silkscreen) płytki PCB. Każda wyprodukowana płytka musi te oznaczenia zachować w oryginalnej formie.
-
---------------------------------------------------------------------------------
+PROJECT LICENSE NOTICE
 
 EN: All contents of this repository, including KiCad design files (schematics and PCB layouts) and technical documentation, are licensed under:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
